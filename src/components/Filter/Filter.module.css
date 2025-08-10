@@ -1,0 +1,7 @@
+.label {
+  display: grid;
+  gap: 8px;
+}
+.input {
+  max-width: 360px;
+}
